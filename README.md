@@ -1,6 +1,8 @@
 # Go Meta Linter
 [![Build Status](https://travis-ci.org/alecthomas/gometalinter.svg)](https://travis-ci.org/alecthomas/gometalinter) [![Gitter chat](https://badges.gitter.im/alecthomas.svg)](https://gitter.im/alecthomas/Lobby)
 
+The source code of this project is available at: https://github.com/alecthomas/gometalinter
+
 <!-- MarkdownTOC -->
 
 - [Installing](#installing)
